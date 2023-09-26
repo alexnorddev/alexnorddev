@@ -1,6 +1,6 @@
 <h2>About me</h2>
 <p>My name is Alex Nord and I'm 35 years old. I've worked as a developer/programmer since 2005.</p>
-<p>I speak fluent English and Swedish, as well as some Spanish. </p>
+<p>I speak fluent English and Swedish, as well as some Spanish.</p>
 <p>My web development career started with HTML, CSS, PHP and SQL. Before WordPress was popular, I was writing my own content managing systems. I eventually decided to specialise in WordPress plugin and theme development.</p>
 <p>JavaScript has become my favorite programming language for both backend and frontend development. React is my favorite frontend framework. I use Node.js and Express to write backend APIs.</p>
 <p>Because code needs somewhere to run, I am also very interested in network infrastructure, load balancing and scaling. I'm a huge advocate for containerization, serverless functions and Kubernetes.</p>
