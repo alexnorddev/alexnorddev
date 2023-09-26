@@ -1,122 +1,69 @@
-<h2>About me</h2>
+<h3>About me</h3>
 <p>My name is Alex Nord,  I'm 35 years old. I've worked in web development since 2005. I speak English and Swedish, as well as some Spanish.</p>
-<p>I started my web development career in e-commerce. Prior to working professionally, I'd been writing code for many years.</p>
-<p>A few years into my career, I decided to specialize in WordPress and WooCommerce. I've used PHP for about 20 years now and it's one of my favorite programming languages.</p>
-<p>JavaScript, React and Tailwind CSS are my favorite tools for frontend development.</p>
-<p>I am also very interested in network infrastructure, load balancing and scaling. I'm a huge advocate for containerization, serverless functions and Kubernetes.</p>
+<p>I started my web development career in e-commerce. Prior to working professionally, I'd been writing code for many years. A few years into my career, I decided to specialize in WordPress and WooCommerce. I've used PHP for about 20 years now and it's one of my favorite programming languages.</p>
+<p>JavaScript, React and Tailwind CSS are my favorite tools for frontend development. I am also very interested in network infrastructure, load balancing and scaling. I'm a huge advocate for containerization, serverless functions and Kubernetes.</p>
 
-<h2>Frontend development</h2>
+<h3>Frontend development</h3>
 <ul>
-  <li>
-    <h3>JavaScript</h3>
-    <p>My primary programming language for frontend applications.</p>
-  </li>
-  <li>
-    <h3>React - framework (reactjs.org)</h3>
-    <p>React is my frontend-framework of choice. I use it to create highly interactive and performant user experiences.</p>
-  </li>
-  <li>
-    <h3>Next - React framework (nextjs.org)</h3>
-    <p>Next is a React framework that I use for new projects. It allows me to configure and start prototyping a new project in minutes.</p>
-  </li>
-  <li>
-    <h3>Tailwind CSS - CSS framework (tailwindcss.com)</h3>
-    <p>Tailwind is a CSS framework that I use instead of writing CSS rules. It speeds up development, decreases page load time and makes it easier to collaborate with other developers.</p>
-  </li>
-  <li>
-    <h3>Framer Motion - React animation framework (framer.com/motion)</h3>
-    <p>Framer Motion is an animation library for React that I use instead of CSS animations. It allows me to smoothly animate any CSS property and create effects that just would not be possible otherwise.</p>
-  </li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Next</li>
+  <li>Vue</li>
+  <li>Tailwind CSS</li>
+  <li>Framer Motion</li>
+  <li>PostCSS</li>
+  <li>SCSS</li>
+  <li>SASS</li>
+  <li>Webpack</li>
 </ul>
 
-<h2>Backend development</h2>
+<h3>Backend development</h3>
 <ul>
-  <li>
-    <h3>JavaScript</h3>
-    <p>My primary programming language for frontend applications.</p>
-  </li>
-  <li>
-    <h3>Node</h3>
-    <p>I use Node as the backend of new projects.</p>
-  </li>
-  <li>
-    <h3>Express</h3>
-    <p>Express is what I use to build APIs for new backends. I write my own middleware for authentication and such.</p>
-  </li>
-  <li>
-    <h3>MySQL</h3>
-    <p>I like relational databases more than the alternatives.</p>
-  </li>
-  <li>
-    <h3>Python</h3>
-    <p>I have worked as Django and Python developer for a SaaS company, but I would prefer to never write Python again.</p>
-  </li>
-  <li>
-    <h3>WordPress</h3>
-    <p>WordPress development was, for a long time, my sole occupation. I can create plugins and themes that extend WordPress functionality however I want.</p>
-  </li>
-  <li>
-    <h3>WooCommerce (WordPress plugin)</h3>
-    <p>Years and years of experience building e-commerce websites with WordPress and WooCommerce.</p>
-  </li>
-  <li>
-    <h3>Advanced Custom Fields (WordPress plugin)</h3>
-    <p>Advanced Custom Fields is the most commonly used tool of trade for WordPress developers and I have plenty of experience using it. I like to include it in my themes and register all my custom fields in code, rather than using the UI.</p>
-  </li>
-  <li>
-    <h3>PHP</h3>
-    <p>PHP was one of my first programming languages. I used to work exclusively with WordPress websites for many years, which is where most of my PHP experience comes from.</p>
-  </li>
+  <li>PHP</li>
+  <li>WordPress</li>
+  <li>Advanced Custom Fields (WordPress plugin)</li>
+  <li>WooCommerce</li>
+  <li>MySQL</li>
+  <li>Node (JavaScript)</li>
+  <li>Express</li>
+  <li>Python</li>
+  <li>Firebase</li>
+  <li>MongoDB</li>
 </ul>
 
-<h2>Other</h2>
+<h3>Other</h3>
 <ul>
-  <li>
-    <h3>Github</h3>
-    <p>I really like using Github and Github actions for automatic deployment.</p>
-  </li>
-  <li>
-    <h3>DevOps</h3>
-    <p>I use Github actions and webhooks for continous deployment.</p>
-  </li>
-  <li>
-    <h3>CI/CD</h3>
-    <p>I use Github actions and webhooks for continous deployment.</p>
-  </li>
-  <li>
-    <h3>Docker</h3>
-    <p>I am a huge advocate for containerization.</p>
-  </li>
-  <li>
-    <h3>Kubernetes</h3>
-    <p>The best way to deploy containers. There is definetly a learning curve, but once you know it... Amazing.</p>
-  </li>
+  <li>Github</li>
+  <li>Github Actions </li>
+  <li>Docker</li>
+  <li>Kubernetes</li>
+  <li>Google Cloud</li>
 </ul>
 
-<h2>History of employment</h2>
+<h3>History of employment</h3>
 <ul>
   <li>
-    <h3>2005 - 2007 (Hardware, PHP)</h3>
-    <p>I got my first job in a tech store. I modified and repaired computers, game consoles and phones. I also worked on our e-commerce website, developing integrations between us and our suppliers for automated restocking of inventory.</p>
+    <div><strong>2005 - 2007 (Hardware, PHP)</strong></div>
+    <div>I got my first job in a tech store. I modified and repaired computers, game consoles and phones. I also worked on our e-commerce website, developing integrations between us and our suppliers for automated restocking of inventory.</div>
   </li>
   <li>
-    <h3>2007 - 2008 (C#, Java)</h3>
-    <p>Worked with POS (point-of-sale) terminal programming. I was tasked with developing integrations between the terminals and accounting software. I also created and was praised for, of my own volition, creating a way to present realtime sales statistics online.</p>
+    <div><strong>2007 - 2008 (C#, Java)</strong></div>
+    <div>Worked with POS (point-of-sale) terminal programming. I was tasked with developing integrations between the terminals and accounting software. I also created and was praised for, of my own volition, creating a way to present realtime sales statistics online.</div>
   </li>
   <li>
-    <h3>2008 - 2014 (C#, Java)</h3>
-    <p>Game developer. Network code, in-game/online purchases and general game logic.</p>
+    <div><strong>2008 - 2014 (C#, Java)</strong></div>
+    <div>Game developer. Network code, in-game/online purchases and general game logic.</div>
   </li>
   <li>
-    <h3>2014 - 2018 (PHP)</h3>
-    <p>PHP programming. Mostly WordPress and WooCommerce development of online stores.</p>
+    <div><strong>2014 - 2018 (PHP)</strong></div>
+    <div>PHP programming. Mostly WordPress and WooCommerce development of online stores.</div>
   </li>
   <li>
-    <h3>2018 - 2022 (JavaScript)</h3>
-    <p>JavaScript and React mostly. Backend APIs with Node.js and Express. Frontends with React and JavaScript.</p>
+    <div><strong>2018 - 2022 (JavaScript)</strong></div>
+    <div>JavaScript and React mostly. Backend APIs with Node.js and Express. Frontends with React and JavaScript.</div>
   </li>
   <li>
-    <h3>2023 - Now</h3>
-    <p>Django and Python programming. Building a SaaS.</p>
+    <div><strong>2023 - Now</strong></div>
+    <div>Django and Python programming. Building a SaaS.</div>
   </li>
 </ul>
