@@ -29,6 +29,8 @@
   <li>Python</li>
   <li>Firebase</li>
   <li>MongoDB</li>
+  <li>REST</li>
+  <li>WebSocket</li>
 </ul>
 
 <h3>Other</h3>
