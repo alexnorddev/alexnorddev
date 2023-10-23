@@ -31,6 +31,8 @@
   <li>MongoDB</li>
   <li>REST</li>
   <li>WebSocket</li>
+  <li>Java</li>
+  <li>C#</li>
 </ul>
 
 <h3>Other</h3>
